@@ -1,0 +1,1 @@
+The model was trained using the publicly available [Phishing Email Dataset on Kaggle](https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset).
